@@ -1,5 +1,5 @@
 <div style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools :</h3>
   </br> 
   </br> 
   <p align="left">
