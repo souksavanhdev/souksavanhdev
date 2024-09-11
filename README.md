@@ -79,10 +79,6 @@
   </p>
 </div>
 
-
-
-
-
 Contact Me :  </br> 
 
 <!-- Facebook Icon -->
