@@ -8,9 +8,12 @@
 
 Contact Me :  </br> 
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100042389940762" height="30" width="40" /> : SOUKSAVANH SOUMPHONPHUKDEE </br> 
+<!-- Facebook Icon -->
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> : SOUKSAVANH SOUMPHONPHUKDEE </br> 
 
-Whatsapp : +856 2078064458
+<!-- WhatsApp Icon -->
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /> : +856 2078064458
+
 
 Donate me :
 
