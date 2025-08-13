@@ -89,13 +89,6 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 
 ### Analytics & Integration
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![TikTok Pixel](https://img.shields.io/badge/TikTok_Pixel-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![Google Sign-in](https://img.shields.io/badge/Google_Sign--in-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Font API](https://img.shields.io/badge/Google_Font_API-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
-
-### Media & Content
-![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)
-![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 
 ## 🔧 What I Do
 
@@ -120,15 +113,6 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 - **Databases**: MongoDB • PostgreSQL • Redis
 - **Tools**: Git • Docker • CI/CD • Agile/Scrum • Vite
 - **Web Infrastructure**: Nginx • Reverse Proxies • Web Servers
-- **Media & Integration**: Vimeo • PDF.js • Google Font API
-- **Analytics & Auth**: Google Analytics • TikTok Pixel • Google Sign-in
+- **Media & Integration**: 
+- **Analytics & Auth**: Google Analytics 
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-⭐️ From [UgoDevai](https://github.com/UgoDevai)
