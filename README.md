@@ -110,6 +110,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 - **Media & Integration**: 
 - **Analytics & Auth**: Google Analytics
 
-## 🌟 Featured Skills
+## 🌟 Experience
 - 1 year at Lailaolab ict solution
+- 3 year at phongsavanh group
 
