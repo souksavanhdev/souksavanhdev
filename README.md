@@ -43,13 +43,13 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
         <br>Vite
       </td>
-<!--       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-        <br>Three.js
-      </td> -->
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Router" />
         <br>React Router
+      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>Ant design
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
