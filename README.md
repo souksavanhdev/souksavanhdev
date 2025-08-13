@@ -1,106 +1,134 @@
-<div style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 align="left">Languages and Tools :</h3>
-  </br> 
-  <p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-<!--     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-      <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-    </a> -->
-  </p>
+# Hi there, I'm UgoDevai! 👋 
+  
+## 🚀 About Me 
+I'm a Full Stack Developer passionate about building scalable web and mobile applications. I specialize in creating seamless user experiences with modern technologies and cloud solutions.
+
+## 💻 Tech Stack
+
+### Frontend Development
+<div align="center"> 
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+        <br>Three.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Router" />
+        <br>React Router
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+        <br>Tailwind CSS
+      </td>
+    </tr>
+  </table>
 </div>
- </br> 
-  </br> 
 
-Contact Me :  </br> 
+### Backend Development
+<div align="center">
+  <div style="width: 80%; padding: 20px; background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d); border-radius: 10px; margin: 0 auto;">
+    <h3 style="color: white; text-align: center; margin-bottom: 15px;">Backend Technologies</h3>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; flex-direction: row;">
+      <div style="text-align: center; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
+        <p style="color: white; margin-top: 10px; font-weight: bold;">Node.js</p>
+      </div>
+      <div style="text-align: center; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
+        <p style="color: white; margin-top: 10px; font-weight: bold;">Express.js</p>
+      </div>
+      <div style="text-align: center; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+        <p style="color: white; margin-top: 10px; font-weight: bold;">MongoDB</p>
+      </div>
+      <div style="text-align: center; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
+        <p style="color: white; margin-top: 10px; font-weight: bold;">PostgreSQL</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-<!-- Facebook Icon -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> : SOUKSAVANH SOUMPHONPHUKDEE </br> 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- WhatsApp Icon -->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /> : +856 2078064458
+### Analytics & Integration
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![TikTok Pixel](https://img.shields.io/badge/TikTok_Pixel-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Google Sign-in](https://img.shields.io/badge/Google_Sign--in-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Font API](https://img.shields.io/badge/Google_Font_API-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
 
+### Media & Content
+![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)
+![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 
-Donate me :
+## 🔧 What I Do
 
-BCEL: ✅
+- 📱 **Mobile Development**: Building cross-platform mobile applications with React Native
+- 🌐 **Web Development**: Creating responsive and dynamic web applications with React
+- 🔧 **Backend Services**: Developing RESTful APIs and microservices with Node.js
+- ☁️ **Cloud Architecture**: Deploying and managing applications on AWS and Cloudflare
+- 🚀 **Performance Optimization**: Ensuring fast and efficient applications
+- 🎨 **Interactive UI**: Creating engaging animations with Three.js and modern CSS frameworks
 
-LABNet: ✅
+## 📊 GitHub Stats
 
-Account name: SOUKSAVANH SOUMPHONPHUKDEE MR
+![UgoDevai's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgoDevai&show_icons=true&theme=dark)
 
-Account number: 031-120-980-5674
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgoDevai&layout=compact&theme=dark)
 
+## 🌟 Featured Skills
 
+- **Frontend**: React Native • React • Redux • Context API • Hooks • React Router • Three.js • Tailwind CSS
+- **Backend**: Node.js • Express • REST APIs • GraphQL
+- **Cloud Services**: AWS (EC2, S3, Lambda, RDS) • Cloudflare Workers
+- **Databases**: MongoDB • PostgreSQL • Redis
+- **Tools**: Git • Docker • CI/CD • Agile/Scrum • Vite
+- **Web Infrastructure**: Nginx • Reverse Proxies • Web Servers
+- **Media & Integration**: Vimeo • PDF.js • Google Font API
+- **Analytics & Auth**: Google Analytics • TikTok Pixel • Google Sign-in
 
+## 📫 Let's Connect!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+⭐️ From [UgoDevai](https://github.com/UgoDevai)
