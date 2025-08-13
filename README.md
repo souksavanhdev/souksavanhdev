@@ -1,4 +1,4 @@
-# Hi there, I'm UgoDevai! 👋 
+# Hi there, I'm SOUK DEV! 👋 
   
 ## 🚀 About Me 
 I'm a Full Stack Developer passionate about building scalable web and mobile applications. I specialize in creating seamless user experiences with modern technologies and cloud solutions.
@@ -17,10 +17,10 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <br>JavaScript
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
         <br>TypeScript
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
@@ -39,10 +39,10 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
         <br>Vite
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
         <br>Three.js
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Router" />
         <br>React Router
@@ -74,7 +74,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
       </div>
       <div style="text-align: center; padding: 10px;">
         <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
-        <p style="color: white; margin-top: 10px; font-weight: bold;">PostgreSQL</p>
+        <p style="color: white; margin-top: 10px; font-weight: bold;">MySQL</p>
       </div>
     </div>
   </div>
