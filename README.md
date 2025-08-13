@@ -108,5 +108,8 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 - **Tools**: Git • Docker • CI/CD • Agile/Scrum • Vite
 - **Web Infrastructure**: Nginx • Reverse Proxies • Web Servers
 - **Media & Integration**: 
-- **Analytics & Auth**: Google Analytics 
+- **Analytics & Auth**: Google Analytics
+
+## 🌟 Featured Skills
+- 1 year at Lailaolab ict solution
 
