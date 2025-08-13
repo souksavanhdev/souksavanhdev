@@ -73,7 +73,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <p style="color: white; margin-top: 10px; font-weight: bold;">MongoDB</p>
       </div>
       <div style="text-align: center; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="PostgreSQL" />
         <p style="color: white; margin-top: 10px; font-weight: bold;">MySQL</p>
       </div>
     </div>
