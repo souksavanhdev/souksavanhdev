@@ -48,7 +48,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <br>Ant design
       </td>
           <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
+      <img src="https://skillicons.dev/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
         <br>bootstrap
       </td>
       <td align="center" width="96">
