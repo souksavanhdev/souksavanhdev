@@ -99,12 +99,6 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 - 🚀 **Performance Optimization**: Ensuring fast and efficient applications
 - 🎨 **Interactive UI**: Creating engaging animations with Three.js and modern CSS frameworks
 
-## 📊 GitHub Stats
-
-![UgoDevai's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgoDevai&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgoDevai&layout=compact&theme=dark)
-
 ## 🌟 Featured Skills
 
 - **Frontend**: React Native • React • Redux • Context API • Hooks • React Router • Three.js • Tailwind CSS
