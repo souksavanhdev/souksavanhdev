@@ -108,7 +108,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 - **Frontend**: React Native • React • Redux • Context API • Hooks • React Router • Three.js • Tailwind CSS
 - **Backend**: Node.js • Express • REST APIs • GraphQL
 - **Cloud Services**: AWS (EC2, S3, CloudFront, Api Gatway) • Cloudflare Workers
-- **Databases**: MongoDB • PostgreSQL • Redis
+- **Databases**: MongoDB • MySQL • Redis
 - **Tools**: Git • Docker • CI/CD • Agile/Scrum • Vite
 - **Web Infrastructure**: Nginx • Reverse Proxies • Web Servers
 - **Media & Integration**: 
