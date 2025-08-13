@@ -14,8 +14,8 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <br>React
       </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+        <br>Next js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
