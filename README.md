@@ -14,17 +14,13 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <br>React
       </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+<!--         <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" /> -->
         <br>Next js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <br>JavaScript
       </td>
-<!--       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
-      </td> -->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
@@ -48,8 +44,12 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <br>React Router
       </td> 
         <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/bootstrap.svg" width="48" height="48" alt="bootstrap" />
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/bootstrap.svg" width="48" height="48" alt="bootstrap" /> -->
         <br>Ant design
+      </td>
+          <td align="center" width="96"> 
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/bootstrap.svg" width="48" height="48" alt="bootstrap" /> -->
+        <br>bootstrap
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
