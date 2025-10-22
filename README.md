@@ -21,6 +21,10 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <br>JavaScript
       </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
