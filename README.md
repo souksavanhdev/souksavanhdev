@@ -96,23 +96,18 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 
 ## 🔧 What I Do
 
-- 📱 **Mobile Development**: Building cross-platform mobile applications with React Native
+- 📱 **Mobile Development**: Building cross-platform mobile applications with Flutter
 - 🌐 **Web Development**: Creating responsive and dynamic web applications with React
 - 🔧 **Backend Services**: Developing RESTful APIs and microservices with Node.js
 - ☁️ **Cloud Architecture**: Deploying and managing applications on AWS and Cloudflare
 - 🚀 **Performance Optimization**: Ensuring fast and efficient applications
-- 🎨 **Interactive UI**: Creating engaging animations with Three.js and modern CSS frameworks
 
 ## 🌟 Featured Skills
 
-- **Frontend**: React Native • React • Redux • Context API • Hooks • React Router • Three.js • Tailwind CSS
-- **Backend**: Node.js • Express • REST APIs • GraphQL
+- **Frontend**:  • React • Redux • Context API • Hooks • React Router • Three.js • Tailwind CSS • Flutter
+- **Backend**: Node.js • Express • REST APIs
 - **Cloud Services**: AWS (EC2, S3, CloudFront, Api Gatway) • Cloudflare Workers
-- **Databases**: MongoDB • MySQL • Redis
-- **Tools**: Git • Docker • CI/CD • Agile/Scrum • Vite
-- **Web Infrastructure**: Nginx • Reverse Proxies • Web Servers
-- **Media & Integration**: 
-- **Analytics & Auth**: Google Analytics
+- **Databases**: MongoDB • MySQL 
 
 ## 🌟 Education level
 - Information technology , savannakhet University
