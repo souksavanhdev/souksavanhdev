@@ -36,10 +36,6 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-        <br>React Native
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
         <br>Vite
       </td>
