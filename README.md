@@ -91,9 +91,6 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Analytics & Integration
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-
 ## 🔧 What I Do
 
 - 📱 **Mobile Development**: Building cross-platform mobile applications with Flutter
